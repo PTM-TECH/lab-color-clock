@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(0, 0%, 80%);
+}
+.clock-container {
+  background-color: hsl(0, 0%, 80%);
+  padding: 30px 50px;
+  border: 5px solid;
+  border-color: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+.clock {
+  font-size: 2.5em;
+  font-family: monospace, Arial;
+  font-weight: bold;
+  color: hsl(165, 35%, 20%);
+}
