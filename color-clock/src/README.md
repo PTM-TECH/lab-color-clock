@@ -4,6 +4,10 @@ A simple and elegant digital clock built with React.
 This project displays the current date and time in a clean, centered layout and is styled
 using external CSS.
 
+## CLOCK IMAGE
+
+![Screenshot of the clock](assets/color-clock.png)
+
 ## FEATURES
 
 - Displays current date and time
