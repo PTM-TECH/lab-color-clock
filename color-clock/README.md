@@ -27,10 +27,9 @@ using external CSS.
 
 src/
 
-- App.jsx
-- App.css
-- main.jsx
-- index.html
+├── App.css
+├── App.jsx
+└── main.jsx
 
 ## HOW TO RUN THE PROJECT
 
