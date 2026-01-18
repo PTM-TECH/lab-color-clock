@@ -1,16 +1,51 @@
-# React + Vite
+## A SIMPLE COLOR CLOCK IN REACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant digital clock built with React.
+This project displays the current date and time in a clean, centered layout and is styled
+using external CSS.
 
-Currently, two official plugins are available:
+## CLOCK IMAGE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot of the clock](assets/color-clock.png)
 
-## React Compiler
+## FEATURES
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Displays current date and time
+- 12-hour time format with AM / PM
+- Clean, minimal user interface
+- Uses external CSS for styling
+- Built with React + Vite
 
-## Expanding the ESLint configuration
+## TECHNOLOGIES USED
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- date-fns
+- CSS
+
+## PROJECT STRUCTURE
+
+src/
+
+- App.jsx
+- App.css
+- main.jsx
+- index.html
+
+## HOW TO RUN THE PROJECT
+
+1. Clone the repository
+2. Install dependencies using npm install
+3. Start the development server using npm run dev
+4. Open the local host link in your browser
+
+## FUTURE IMPROVEMENTS
+
+- Live updating seconds
+- 24-hour time format
+- Dark mode
+- Responsive design
+
+## AUTHOR
+
+Patrick Mutua
